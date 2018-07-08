@@ -1,9 +1,10 @@
 <template>
   <div id="notfound">
     <b-container class="mt-5 text-center">
-      <h1>404 - Page Not Found</h1>
-      <hr>
-      <h3>The page you are looking for does not exist</h3>
+      <b-jumbotron
+        header="404 - Page Not Found"
+        lead="The page you are looking for does not exist">
+      </b-jumbotron>
     </b-container>
   </div>
 </template>

@@ -1,9 +1,10 @@
 <template>
   <div id="home">
-    <b-container class="mt-5 text-center">
-      <h1>Coming Soon</h1>
-      <hr>
-      <h3>Aaron Kimbrell | Software Engineer</h3>
+    <b-container class="mt-5">
+      <b-jumbotron
+        header="Aaron Kimbrell"
+        lead="Software Engineering Undergradate | Mississippi State University" >
+      </b-jumbotron>
     </b-container>
   </div>
 </template>
