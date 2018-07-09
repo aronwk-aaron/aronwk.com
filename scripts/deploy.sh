@@ -1,7 +1,7 @@
-#!/bin/bash
+#! /bin/bash
 
-cd aronwk.com
+cd ~/aronwk.com
 mv dist html
 sudo rm -rf /var/www/aronwk.com/html
-sudo mv html /var/www/aronwk.com/
+sudo cp html /var/www/aronwk.com/
 sudo chown -R $USER:$USER /var/www/aronwk.com/html
