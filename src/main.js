@@ -2,7 +2,7 @@ import Vue from 'vue';
 import BootstrapVue from 'bootstrap-vue';
 import Meta from 'vue-meta';
 
-import 'bootstrap/dist/css/bootstrap.css';
+import '@/css/bootstrap.css';
 import 'bootstrap-vue/dist/bootstrap-vue.css';
 
 import App from './App.vue';
