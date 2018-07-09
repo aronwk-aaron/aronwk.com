@@ -14,9 +14,6 @@
           <b-button class="ml-1" type="link" size="lg" variant="primary" href="https://discordapp.com/users/165540221100752897/">
             Discord
           </b-button>
-          <b-button class="ml-1" type="link" size="lg" variant="primary" href="https://keybase.io/aronwk">
-            Keybase
-          </b-button>
           <b-button class="ml-1" type="link" size="lg" variant="primary" href="https://www.twitch.tv/aronwk">
             Twitch
           </b-button>

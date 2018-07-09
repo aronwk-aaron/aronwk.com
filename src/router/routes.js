@@ -3,6 +3,7 @@ import Projects from '@/pages/Projects.vue';
 import Resume from '@/pages/Resume.vue';
 import Social from '@/pages/Social.vue';
 import Contact from '@/pages/Contact.vue';
+import Security from '@/pages/Security.vue';
 
 import NotFound from '@/pages/NotFound.vue';
 
@@ -22,6 +23,10 @@ const routes = [
   {
     path: '/social',
     component: Social
+  },
+  {
+    path: '/security',
+    component: Security
   },
   {
     path: '/contact',

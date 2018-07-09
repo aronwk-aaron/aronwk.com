@@ -11,6 +11,7 @@
         </b-navbar-nav>
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
+          <b-nav-item :href="'/security'">Security</b-nav-item>
           <b-nav-item :href="'/contact'">Contact</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
