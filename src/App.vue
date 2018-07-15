@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="text-white">
-    <b-navbar toggleable="md" type="light" variant="light">
+    <b-navbar toggleable="md" type="dark" variant="light">
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
       <b-navbar-brand :href="'/'">Aaron K.</b-navbar-brand>
       <b-collapse is-nav id="nav_collapse">
