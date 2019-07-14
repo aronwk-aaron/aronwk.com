@@ -16,6 +16,7 @@
     "@xkeshi/vue-countdown": "^1.0.0",
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.11",
+    "firebase-tools": "^7.1.0",
     "vue": "^2.5.16",
     "vue-base64-file-upload": "^1.0.4",
     "vue-github-profile": "^1.0.4",
